@@ -2,13 +2,8 @@ package com.example.app_weather
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
-import com.example.weatherapp.databinding.ActivityMainBinding
-import com.example.weatherapp.main.ViewModelFactory
-import com.example.weatherapp.main.WeatherViewModel
-import com.example.weatherapp.repository.MainRepository
+import com.example.app_weather.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {

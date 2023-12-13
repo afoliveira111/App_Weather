@@ -3,8 +3,6 @@ package com.example.app_weather
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.weatherapp.model.WeatherData
-import com.example.weatherapp.repository.MainRepository
 import kotlinx.coroutines.launch
 
 

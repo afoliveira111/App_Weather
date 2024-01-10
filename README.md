@@ -36,12 +36,9 @@ Injeção de Dependência:
 
 ## Padrões de Projeto:
 
-- Observador / Observable (LiveData)
-  
-- Recursos de string e dimensões no XML
-  
-- Gson Annotations
-  
+- Observador / Observable (LiveData)  
+- Recursos de string e dimensões no XML  
+- Gson Annotations  
 - Biblioteca Gson para desserializar os dados JSON da resposta da API para objetos Kotlin
 
 

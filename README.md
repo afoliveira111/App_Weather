@@ -46,7 +46,9 @@ Injeção de Dependência:
 - Novas funcionalidades
 
 ## Author
-Antonio Felipe Oliveira www.linkedin.com/in/id-antonio-felipe
+Antonio Felipe Oliveira 
+
+www.linkedin.com/in/id-antonio-felipe
 
 ## License
 ```

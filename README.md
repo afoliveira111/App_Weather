@@ -11,7 +11,6 @@
 
 # Tecnologias 
  Linguagem de Programação:
-
 - Kotlin
 
  Arquitetura:  
@@ -26,26 +25,23 @@ Data Binding:
 - Utilização do Data Binding no XML (layout binding)
 
 Retrofit:
-
 - Para realizar chamadas de API
 
 Injeção de Dependência:
-
 - ViewModelFactory (ViewModelProvider)
 
 # Componentes de UI:
-
 - AppCompatActivity
-
 - Layout inflado usando ViewBinding
 
 ## Padrões de Projeto:
+
 - Observador / Observable (LiveData)
-
+  
 - Recursos de string e dimensões no XML
-
+  
 - Gson Annotations
-
+  
 - Biblioteca Gson para desserializar os dados JSON da resposta da API para objetos Kotlin
 
 
